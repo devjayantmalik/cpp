@@ -15,11 +15,10 @@ int main(){
 1. GUI.cpp
 2. Backend.cpp
 3. Main.cpp : bind gui and backend together.
-*/
 
 gui/
     - menu.cpp
     - editor.cpp
     - tabs.cpp
     - statusbar.cpp
-
+*/
